@@ -36,7 +36,6 @@ footer h1 {
 }
 
 header h1 {
-    margin-top: 2%;
     text-align: center;
     color: white;
 }
@@ -102,7 +101,7 @@ tr:hover {
 }
 
 .custom-table tr.background1:hover {
-    background-image: url("../img/megadeth.jpg"); 
+    background-image: url("../img/Megadeth.png"); 
     background-size: cover; 
     background-position: center;
 }
@@ -110,9 +109,53 @@ tr:hover {
 .custom-table tr.background2:hover {
     background-image: url("../img/Queen.jpg"); 
     background-size: cover;
-    background-position: 0px -40px; 
+    background-position: center;
 }
 
+.custom-table tr.background3:hover {
+    background-image: url("../img/Metallica.jpg"); 
+    background-size: cover;
+    background-position: center;
+}
+.custom-table tr.background4:hover {
+    background-image: url("../img/ACDC.png"); 
+    background-size: cover;
+    background-position: center;
+}
+
+.custom-table tr.background5:hover {
+    background-image: url("../img/Nirvana.png"); 
+    background-size: cover; 
+    background-position: center;
+}
+
+.custom-table tr.background6:hover {
+    background-image: url("../img/PearlJam.jpg"); 
+    background-size: cover;
+    background-position: center;
+}
+
+.custom-table tr.background7:hover {
+    background-image: url("../img/PinkFloyd.jpg"); 
+    background-size: cover;
+    background-position: center;
+}
+.custom-table tr.background8:hover {
+    background-image: url("../img/DeepPurple.png"); 
+    background-size: cover;
+    background-position: center;
+}
+
+.custom-table tr.background9:hover {
+    background-image: url("../img/Ozzy.jpg"); 
+    background-size: cover;
+    background-position: center;
+}
+.custom-table tr.background10:hover {
+    background-image: url("../img/DavidBowie.jpg"); 
+    background-size: cover;
+    background-position: center;
+}
 .custom-table tr {
     background-color: transparent; 
 }
